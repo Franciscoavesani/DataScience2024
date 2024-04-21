@@ -1,0 +1,21 @@
+1. Qual é a média, mediana e desvio padrão do comprimento das pétalas de todas as espécies?
+
+2. Qual espécie de flor tem a maior largura média de sépala? E a menor?
+
+3. Existe uma correlação entre o comprimento e a largura das pétalas? E entre o comprimento das pétalas e o comprimento das sépalas?
+
+4. Usando o algoritmo de agrupamento K-means, quantos clusters são ideais para representar as diferentes espécies de flores Iris?
+
+5. Quais características (comprimento da sépala, largura da sépala, comprimento da pétala, largura da pétala) são mais úteis para distinguir entre as diferentes espécies de flores?
+
+6. Usando o KDE, como é a distribuição da largura das pétalas para cada espécie de flor?
+
+7. Existem outliers nos dados? Como eles afetam a distribuição das espécies de flores? Plote os dados em scatter plots e dê destaque com cor vermelha para os outliers.
+
+8. Qual é a probabilidade de encontrar uma flor Iris-versicolor com largura de pétala entre 1.5 e 2.0 cm?
+
+9. Como as medidas das sépalas se comparam entre as espécies de flores? Existe uma diferença significativa?10. Existe uma relação entre o comprimento das pétalas e o comprimento das sépalas em uma determinada espécie de flor?
+
+11. Qual é a relação entre a largura da pétala e a largura da sépala para as diferentes espécies de flores Iris?
+
+https://www.linkedin.com/posts/samiramendes_estava-procurando-um-curso-para-revisar-os-activity-7175960110832226304-lWx7/?utm_source=share&utm_medium=member_android
